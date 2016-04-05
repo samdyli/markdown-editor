@@ -3,9 +3,9 @@ markdown editor for web develop
 # md-editor  
 --- 
 
-**** A markdown-editor for web using js embeded in suMarkdown project ([https://github.com/suemi994/suMarkdown](https://github.com/suemi994/suMarkdown) )  
+A markdown-editor for web using js embeded in suMarkdown project ([https://github.com/suemi994/suMarkdown](https://github.com/suemi994/suMarkdown) )  
 ## Description  
-author£º samdyli ([www.samdyli.fanqir.com](www.samdyli.fanqir.com))  
+author:samdyli ([www.samdyli.fanqir.com](www.samdyli.fanqir.com))  
 firstVersion:0.0 (2015-4-05)  
 
 ## history    
